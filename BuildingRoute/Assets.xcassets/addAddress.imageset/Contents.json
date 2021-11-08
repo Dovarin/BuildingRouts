@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "noun_add address_1024315.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

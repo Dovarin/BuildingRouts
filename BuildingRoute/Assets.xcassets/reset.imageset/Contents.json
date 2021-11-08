@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "noun_reset_3324862.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

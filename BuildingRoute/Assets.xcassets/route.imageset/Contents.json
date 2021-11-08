@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "noun_route_4376039.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
